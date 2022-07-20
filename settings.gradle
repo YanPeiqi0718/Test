@@ -1,0 +1,9 @@
+include ':hmi_repository:repository'
+include ':hmi_repository'
+include ':common_lib'
+include ':hmi_app:model'
+include ':hmi_app:view_model'
+include ':hmi_app:view'
+include ':hmi_sdk:sdk'
+include 'hmi_service:service'
+rootProject.name = "MvvmDemo"

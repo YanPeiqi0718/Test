@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_fragment_graph"
+    app:startDestination="@id/bt_music_fragment">
+
+    <fragment
+        android:id="@+id/bt_music_fragment"
+        android:name="com.thundersoft.mvvm.app.ui.fragment.BtMusicFragment"
+        android:label="BTMusicFragment"
+        tools:layout="@layout/layout_bt_music">
+
+    </fragment>
+
+</navigation>

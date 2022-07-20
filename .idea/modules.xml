@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MvvmDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MvvmDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common_lib/MvvmDemo.common_lib.iml" filepath="$PROJECT_DIR$/.idea/modules/common_lib/MvvmDemo.common_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common_lib/MvvmDemo.common_lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common_lib/MvvmDemo.common_lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common_lib/MvvmDemo.common_lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common_lib/MvvmDemo.common_lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common_lib/MvvmDemo.common_lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common_lib/MvvmDemo.common_lib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/MvvmDemo.hmi_app.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/MvvmDemo.hmi_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/model/MvvmDemo.hmi_app.model.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/model/MvvmDemo.hmi_app.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/view/MvvmDemo.hmi_app.view.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/view/MvvmDemo.hmi_app.view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/view/MvvmDemo.hmi_app.view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/view/MvvmDemo.hmi_app.view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/view/MvvmDemo.hmi_app.view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/view/MvvmDemo.hmi_app.view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/view/MvvmDemo.hmi_app.view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/view/MvvmDemo.hmi_app.view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/view_model/MvvmDemo.hmi_app.view_model.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/view_model/MvvmDemo.hmi_app.view_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/view_model/MvvmDemo.hmi_app.view_model.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/view_model/MvvmDemo.hmi_app.view_model.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/view_model/MvvmDemo.hmi_app.view_model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/view_model/MvvmDemo.hmi_app.view_model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_app/view_model/MvvmDemo.hmi_app.view_model.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_app/view_model/MvvmDemo.hmi_app.view_model.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_repository/MvvmDemo.hmi_repository.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_repository/MvvmDemo.hmi_repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_repository/repository/MvvmDemo.hmi_repository.repository.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_repository/repository/MvvmDemo.hmi_repository.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_repository/repository/MvvmDemo.hmi_repository.repository.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_repository/repository/MvvmDemo.hmi_repository.repository.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_repository/repository/MvvmDemo.hmi_repository.repository.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_repository/repository/MvvmDemo.hmi_repository.repository.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_repository/repository/MvvmDemo.hmi_repository.repository.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_repository/repository/MvvmDemo.hmi_repository.repository.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_sdk/MvvmDemo.hmi_sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_sdk/MvvmDemo.hmi_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_sdk/sdk/MvvmDemo.hmi_sdk.sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_sdk/sdk/MvvmDemo.hmi_sdk.sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_sdk/sdk/MvvmDemo.hmi_sdk.sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_sdk/sdk/MvvmDemo.hmi_sdk.sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_sdk/sdk/MvvmDemo.hmi_sdk.sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_sdk/sdk/MvvmDemo.hmi_sdk.sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_sdk/sdk/MvvmDemo.hmi_sdk.sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_sdk/sdk/MvvmDemo.hmi_sdk.sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_service/MvvmDemo.hmi_service.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_service/MvvmDemo.hmi_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_service/service/MvvmDemo.hmi_service.service.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_service/service/MvvmDemo.hmi_service.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_service/service/MvvmDemo.hmi_service.service.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_service/service/MvvmDemo.hmi_service.service.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_service/service/MvvmDemo.hmi_service.service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_service/service/MvvmDemo.hmi_service.service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hmi_service/service/MvvmDemo.hmi_service.service.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/hmi_service/service/MvvmDemo.hmi_service.service.unitTest.iml" />
+    </modules>
+  </component>
+</project>

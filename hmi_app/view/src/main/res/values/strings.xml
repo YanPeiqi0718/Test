@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MvvmDemo</string>
+
+    <string name="bt_music">BT\nMusic</string>
+    <string name="online_music">Online\nMusic</string>
+    <string name="usb_music">USB\nMusic</string>
+
+    <string name="radio_fm_fragment_title">该页面是：RadioFmFragment</string>
+    <string name="radio_am_fragment_title">该页面是：RadioAmFragment</string>
+    <string name="music_main_fragment_title">该页面是：MusicMainFragment</string>
+    <string name="bt_music_fragment_title">该页面是：BTMusicFragment</string>
+    <string name="usb_music_fragment_title">该页面是：UsbMusicFragment</string>
+    <string name="online_music_fragment_title">该页面是：OnlineMusicFragment</string>
+    <string name="radio_fm_fragment_changed_radio_am_fragment">切换到Radio_AM页面</string>
+    <string name="radio_am_fragment_changed_music_main_fragment">切换到Music_Main页面</string>
+
+    <string name="back_button_text">返回</string>
+    <string name="music_text_lrc_empty">当前无歌词</string>
+
+</resources>

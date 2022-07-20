@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/tab_default">
+
+    <RadioGroup
+        android:id="@+id/top_tab_bar_radio_group"
+        android:layout_width="@dimen/dimens124dp"
+        android:layout_height="@dimen/dimens550dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/music_tab_bar_bt_music_radio_button"
+            android:layout_width="@dimen/dimens124dp"
+            android:layout_height="@dimen/dimens182dp"
+            android:background="@drawable/selector_tab"
+            android:button="@null"
+            android:checked="true" />
+
+        <RadioButton
+            android:id="@+id/music_tab_bar_usb_music_radio_button"
+            android:layout_width="@dimen/dimens124dp"
+            android:layout_height="@dimen/dimens183dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/selector_tab"
+            android:button="@null"
+            android:checked="false" />
+
+        <RadioButton
+            android:id="@+id/music_tab_bar_online_music_radio_button"
+            android:layout_width="@dimen/dimens124dp"
+            android:layout_height="@dimen/dimens183dp"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/selector_tab"
+            android:button="@null"
+            android:checked="false" />
+
+    </RadioGroup>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimens36dp"
+        android:src="@drawable/tab_bar_btn_bt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimens217dp"
+        android:src="@drawable/tab_bar_btn_usb"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimens398dp"
+        android:src="@drawable/tab_bar_btn_online"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="@dimen/dimens0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimens20dp"
+        android:layout_marginTop="@dimen/dimens110dp"
+        android:layout_marginEnd="@dimen/dimens20dp"
+        android:gravity="center"
+        android:text="@string/bt_music"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/dimens18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="@dimen/dimens0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimens20dp"
+        android:layout_marginTop="@dimen/dimens292dp"
+        android:layout_marginEnd="@dimen/dimens20dp"
+        android:gravity="center"
+        android:text="@string/usb_music"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/dimens18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="@dimen/dimens0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimens20dp"
+        android:layout_marginTop="@dimen/dimens474dp"
+        android:layout_marginEnd="@dimen/dimens20dp"
+        android:gravity="center"
+        android:text="@string/online_music"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/dimens18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:layout_width="@dimen/dimens124dp"
+        android:layout_height="@dimen/dimens1dp"
+        android:layout_marginTop="@dimen/dimens183dp"
+        android:background="@color/tab_bar_bg"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:layout_width="@dimen/dimens124dp"
+        android:layout_height="@dimen/dimens1dp"
+        android:layout_marginTop="@dimen/dimens366dp"
+        android:background="@color/tab_bar_bg"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
